@@ -1,12 +1,13 @@
-package wsb.po.trzy;
+package wsb.po.dwa;
 
 import java.awt.*;
 
 public class MoveTester {
     public static void main(String[] args) {
-        Rectangle box = new Rectangle(5, 10, 20, 30);
 
+        Rectangle box = new Rectangle(5, 10, 20, 30);
         Rectangle box2 = box;
+        Rectangle box3 = new Rectangle(5, 10, 20, 30);
 
         // Move the rectangle
         box.translate(15, 25);
@@ -21,5 +22,6 @@ public class MoveTester {
         System.out.println("Expected: 35");
 
         System.out.println(box2);
+        System.out.println(box3);
     }
 }
