@@ -5,12 +5,12 @@ public class TestBanking
 
     public static void printAccount(Account ba, int i) {
         System.out.println("\tKonto " + (i + 1) + " " + ba+ " "
-                        + (ba instanceof SavingsAccount ? "SA" : "") + " "
+                //        + (ba instanceof SavingsAccount ? "SA" : "") + " "
                 //+ (ba instanceof CheckingAccount ? "CA" : "")
         );
-        if (ba instanceof SavingsAccount) {
-            System.out.println("\t\tProcent " + " " + ((SavingsAccount)ba).getInterestRate());
-        }
+//        if (ba instanceof SavingsAccount) {
+//            System.out.println("\t\tProcent " + " " + ((SavingsAccount)ba).getInterestRate());
+//        }
     }
 
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class TestBanking
 
         Account account = new SavingsAccount(500,2);
         klient1.addAccount(account);
-        account = new CheckingAccount(200);
+        account = new CheckingAccount(200,50);
         klient1.addAccount(account);
         account = new SavingsAccount(200, 5);
         klient2.addAccount(account);

@@ -12,4 +12,12 @@ public class SavingsAccount extends Account {
     public double getInterestRate() {
         return interestRate;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() +
+                " SavingsAccount{" +
+                "interestRate=" + interestRate +
+                "} ";
+    }
 }
