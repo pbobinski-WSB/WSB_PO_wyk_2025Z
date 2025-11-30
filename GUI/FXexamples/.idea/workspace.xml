@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee1158c0-d3ad-4268-833c-4ebe9e823028" name="Changes" comment="Przykłąd FX calc">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fx/examples/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fx/examples/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fx/examples/ListManagerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fx/examples/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fx/examples/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fx/examples/MainWindowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/fx/examples/MainWindowInterface.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/fx/examples/MainWindowStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/fx/examples/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/fx/examples/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/fx/examples/images/hide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/fx/examples/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/java/org/swing/examples/SimpleSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/java/org/swing/examples/SwingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/java/org/swing/examples/more/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/java/org/swing/examples/more/theme/ThemeLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/java/org/swing/examples/more/theme/properties/Theme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/java/org/swing/examples/more/theme/properties/ThemeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/java/org/swing/examples/more/ui/CalculatorUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/java/org/swing/examples/more/util/ColorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwingExamples/src/main/test/org/swing/examples/more/CalculatorUITest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pbobinski-WSB&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b3a0edaa-408b-4fc2-94cf-5cb42808dcf0" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pbobinsk/JavaTests.git&quot;,
+    &quot;accountId&quot;: &quot;dd0339d3-228f-4176-b2b9-f9c74297a272&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2vmAPc7sJt1e1ssVIfvtELWeK3u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.ListManagerApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/Zajecia_WSB/WSB_PO_wyk_2025Z/GUI/FXexamples",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\venvTests\JavaTests\FXexamples\src\main\resources\org\fx\examples" />
+      <recent name="C:\Users\DELL\venvTests\JavaTests\FXexamples\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\venvTests\JavaTests\FXexamples\src\main\resources\org\fx\examples" />
+      <recent name="C:\Users\DELL\venvTests\JavaTests\FXexamples\src\main\resources\org\fx\images" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.fx.examples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fx.examples.HelloApplication" />
+      <module name="FXexamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fx.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fx.examples.ListManagerApp" />
+      <module name="FXexamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fx.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fx.examples.Main" />
+      <module name="FXexamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.fx.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ListManagerApp" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee1158c0-d3ad-4268-833c-4ebe9e823028" name="Changes" comment="" />
+      <created>1744739853070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744739853070</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Przykłąd FX calc">
+      <option name="closed" value="true" />
+      <created>1746551213061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746551213061</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Przykłąd FX calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Przykłąd FX calc" />
+  </component>
+</project>
