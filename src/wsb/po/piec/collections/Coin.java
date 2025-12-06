@@ -56,7 +56,7 @@ public class Coin implements Measurable, Comparable
 
 
 
-   /**/
+
 
    @Override
    public boolean equals(Object o) {
@@ -78,6 +78,7 @@ public class Coin implements Measurable, Comparable
       Coin coin = (Coin) o;
       return Double.compare(this.getValue(), coin.getValue() );
    }
-   /**/
+
+
 
 }

@@ -5,44 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd42a5fb-d83e-4be3-aefb-75590bd1d718" name="Changes" comment="Zmiana pakietów, nowe przykłądy Swing">
-      <change afterPath="$PROJECT_DIR$/../FXexamples/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/java/org/fx/examples/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/java/org/fx/examples/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/java/org/fx/examples/ListManagerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/java/org/fx/examples/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/java/org/fx/examples/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/java/org/fx/examples/MainWindowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/resources/org/fx/examples/MainWindowInterface.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/resources/org/fx/examples/MainWindowStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/resources/org/fx/examples/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/resources/org/fx/examples/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/resources/org/fx/examples/images/hide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FXexamples/src/main/resources/org/fx/examples/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/swing/examples/SimpleSwing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/swing/examples/SwingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/swing/examples/more/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/swing/examples/more/theme/ThemeLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/swing/examples/more/theme/properties/Theme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/swing/examples/more/theme/properties/ThemeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/swing/examples/more/ui/CalculatorUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/swing/examples/more/util/ColorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/org/swing/examples/more/CalculatorUITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FXexamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FXexamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../file/WatchedDir/niofile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/wsb/po/piec/collections/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/wsb/po/piec/collections/Coin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,23 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.SimpleSwing.executor": "Run",
-    "Application.SwingExample.executor": "Run",
-    "JUnit.CalculatorUITest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DELL/Zajecia_WSB/WSB_PO_wyk_2025Z/GUI/SwingExamples",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleSwing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwingExample.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorUITest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Zajecia_WSB/WSB_PO_wyk_2025Z/GUI/SwingExamples&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\venvTests\JavaTests\SwingExamples\src\main" />

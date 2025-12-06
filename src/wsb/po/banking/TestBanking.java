@@ -76,6 +76,8 @@ public class TestBanking
         }
         try {
             klient1.save(1);
+            klient1.save(2);
+
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
