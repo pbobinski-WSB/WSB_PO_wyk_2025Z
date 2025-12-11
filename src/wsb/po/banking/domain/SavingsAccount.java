@@ -1,6 +1,4 @@
-package wsb.po.banking;
-
-import java.io.IOException;
+package wsb.po.banking.domain;
 
 public class SavingsAccount extends Account {
 
@@ -17,8 +15,8 @@ public class SavingsAccount extends Account {
 
     @Override
     public String toString() {
-        return " SavingsAccount {" +
-                "} " + super.toString();
+        return " SavingsAccount{" +
+                '}' + super.toString();
     }
 
 

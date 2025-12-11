@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd42a5fb-d83e-4be3-aefb-75590bd1d718" name="Changes" comment="Zmiana pakietów, nowe przykłądy Swing">
-      <change beforePath="$PROJECT_DIR$/../FXexamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FXexamples/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../file/WatchedDir/niofile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/wsb/po/piec/collections/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/wsb/po/piec/collections/Coin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,7 @@
       <recent name="org.swing.examples.more" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.SwingExample">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.swing.examples.more.App" />
       <module name="SwingExamples" />
@@ -124,9 +121,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.SimpleSwing" />
         <item itemvalue="Application.SwingExample" />
+        <item itemvalue="Application.SimpleSwing" />
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.CalculatorUITest" />
       </list>
     </recent_temporary>
